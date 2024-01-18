@@ -1,0 +1,6 @@
+@API.Authentication.Basic_HostAddress = http://localhost:5029
+
+GET {{API.Authentication.Basic_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
